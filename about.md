@@ -32,5 +32,5 @@ key: page-about
 
 如果你喜欢homoOS,欢迎在github关注我们！
 
-[![Star This Project]](https://github.com/SelfMediaWriting)
+[Star This Project](https://github.com/SelfMediaWriting)
 
